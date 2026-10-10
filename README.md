@@ -16,6 +16,9 @@
   <a href="mailto:oussamaechcharef72@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+   <a href="https://mastodon.social/@OussamaEchcharef">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a>
 </p>
 
 ---
