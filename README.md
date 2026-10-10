@@ -130,6 +130,8 @@ I'm always interested in learning, building useful products, and connecting with
   <a href="https://x.com/oussamaEcharef">X</a>
   •
   <a href="mailto:oussamaechcharef72@gmail.com">Email Me</a>
+  •
+  <a href="https://mastodon.social/@OussamaEchcharef">Mastodon</a>
 </p>
 
 ---
